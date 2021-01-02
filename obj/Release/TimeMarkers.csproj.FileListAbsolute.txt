@@ -1,0 +1,12 @@
+C:\Users\jozue\source\repos\TimeMarkers\TimeMarkers\bin\Release\TimeMarkers.exe.config
+C:\Users\jozue\source\repos\TimeMarkers\TimeMarkers\bin\Release\TimeMarkers.exe
+C:\Users\jozue\source\repos\TimeMarkers\TimeMarkers\bin\Release\TimeMarkers.pdb
+C:\Users\jozue\source\repos\TimeMarkers\TimeMarkers\bin\Release\Gma.System.MouseKeyHook.dll
+C:\Users\jozue\source\repos\TimeMarkers\TimeMarkers\obj\Release\TimeMarkers.csprojAssemblyReference.cache
+C:\Users\jozue\source\repos\TimeMarkers\TimeMarkers\obj\Release\TimeMarkers.timeMarkers.resources
+C:\Users\jozue\source\repos\TimeMarkers\TimeMarkers\obj\Release\TimeMarkers.Properties.Resources.resources
+C:\Users\jozue\source\repos\TimeMarkers\TimeMarkers\obj\Release\TimeMarkers.csproj.GenerateResource.cache
+C:\Users\jozue\source\repos\TimeMarkers\TimeMarkers\obj\Release\TimeMarkers.csproj.CoreCompileInputs.cache
+C:\Users\jozue\source\repos\TimeMarkers\TimeMarkers\obj\Release\TimeMarkers.csproj.CopyComplete
+C:\Users\jozue\source\repos\TimeMarkers\TimeMarkers\obj\Release\TimeMarkers.exe
+C:\Users\jozue\source\repos\TimeMarkers\TimeMarkers\obj\Release\TimeMarkers.pdb

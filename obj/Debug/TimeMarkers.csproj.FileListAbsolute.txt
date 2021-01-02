@@ -1,0 +1,12 @@
+C:\Users\jozue\source\repos\TimeMarkers\TimeMarkers\bin\Debug\TimeMarkers.exe.config
+C:\Users\jozue\source\repos\TimeMarkers\TimeMarkers\bin\Debug\TimeMarkers.exe
+C:\Users\jozue\source\repos\TimeMarkers\TimeMarkers\bin\Debug\TimeMarkers.pdb
+C:\Users\jozue\source\repos\TimeMarkers\TimeMarkers\obj\Debug\TimeMarkers.csprojAssemblyReference.cache
+C:\Users\jozue\source\repos\TimeMarkers\TimeMarkers\obj\Debug\TimeMarkers.timeMarkers.resources
+C:\Users\jozue\source\repos\TimeMarkers\TimeMarkers\obj\Debug\TimeMarkers.Properties.Resources.resources
+C:\Users\jozue\source\repos\TimeMarkers\TimeMarkers\obj\Debug\TimeMarkers.csproj.GenerateResource.cache
+C:\Users\jozue\source\repos\TimeMarkers\TimeMarkers\obj\Debug\TimeMarkers.csproj.CoreCompileInputs.cache
+C:\Users\jozue\source\repos\TimeMarkers\TimeMarkers\obj\Debug\TimeMarkers.exe
+C:\Users\jozue\source\repos\TimeMarkers\TimeMarkers\obj\Debug\TimeMarkers.pdb
+C:\Users\jozue\source\repos\TimeMarkers\TimeMarkers\bin\Debug\Gma.System.MouseKeyHook.dll
+C:\Users\jozue\source\repos\TimeMarkers\TimeMarkers\obj\Debug\TimeMarkers.csproj.CopyComplete

@@ -1,0 +1,5 @@
+file path=C:\Users\jozue\source\repos\TimeMarkers\TimeMarkers\bin\Debug
+file name=test
+file number=1
+detect key=F9
+detect mouse button=None
